@@ -1,0 +1,1 @@
+import{_ as n,o as t,c,a as e,d as o}from"../app.28320a3a.js";const s={},a=e("p",null,[o(" This function also provides a directive version via the "),e("code",null,"@vueuse/components"),o(" package. "),e("a",{href:"/guide/components"},"Learn more about the usage"),o(". ")],-1),r=[a];function _(i,u){return t(),c("blockquote",null,r)}var d=n(s,[["render",_]]);export{d as _};

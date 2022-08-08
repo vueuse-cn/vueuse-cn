@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,e as o}from"./app.28320a3a.js";const C=JSON.parse('{"title":"Ecosystem","description":"","frontmatter":{},"headers":[],"relativePath":"ecosystem.md"}'),p={name:"ecosystem.md"},l=o("",7),e=[l];function t(c,r,y,A,B,i){return a(),n("div",null,e)}var m=s(p,[["render",t]]);export{C as __pageData,m as default};
