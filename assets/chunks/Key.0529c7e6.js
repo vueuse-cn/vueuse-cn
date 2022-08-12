@@ -1,0 +1,1 @@
+import{f as o,o as r,c as t,n,A as p}from"../app.32f1c884.js";const i=o({__name:"Key",props:{value:{type:Boolean}},setup(a){return(e,s)=>(r(),t("div",{class:p(["font-mono px-4 py-2 rounded",a.value?"opacity-100 text-primary bg-primary bg-opacity-15":"opacity-50 bg-gray-600 bg-opacity-10 dark:bg-gray-400 dark:bg-opacity-10"])},[n(e.$slots,"default")],2))}});export{i as _};
